@@ -55,6 +55,12 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
     vendor/zuk/ham/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zuk/ham/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.flist:system/vendor/firmware/keymaster/keymaster.flist \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
