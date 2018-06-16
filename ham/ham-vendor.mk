@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/zuk/ham/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/zuk/ham/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
-    vendor/zuk/ham/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zuk/ham/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
