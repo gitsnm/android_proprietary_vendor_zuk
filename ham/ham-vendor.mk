@@ -30,22 +30,22 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/zuk/ham/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
     vendor/zuk/ham/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/zuk/ham/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/zuk/ham/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
-    vendor/zuk/ham/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
-    vendor/zuk/ham/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
-    vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/zuk/ham/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/zuk/ham/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/zuk/ham/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/zuk/ham/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/zuk/ham/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
+    vendor/zuk/ham/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/zuk/ham/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
+    vendor/zuk/ham/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
+    vendor/zuk/ham/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/zuk/ham/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/zuk/ham/proprietary/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config:system/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config \
     vendor/zuk/ham/proprietary/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch:system/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch \
@@ -55,8 +55,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/etc/tfa98xx/shenqi_music.preset:system/etc/tfa98xx/shenqi_music.preset \
     vendor/zuk/ham/proprietary/etc/tfa98xx/shenqi_speech.eq:system/etc/tfa98xx/shenqi_speech.eq \
     vendor/zuk/ham/proprietary/etc/tfa98xx/shenqi_speech.preset:system/etc/tfa98xx/shenqi_speech.preset \
-    vendor/zuk/ham/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
-    vendor/zuk/ham/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+    vendor/zuk/ham/proprietary/vendor/framework/qcnvitems.jar:system/vendor/framework/qcnvitems.jar \
+    vendor/zuk/ham/proprietary/vendor/framework/qcrilhook.jar:system/vendor/framework/qcrilhook.jar \
     vendor/zuk/ham/proprietary/lib/hw/fingerprint.msm8974.so:system/lib/hw/fingerprint.msm8974.so \
     vendor/zuk/ham/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
