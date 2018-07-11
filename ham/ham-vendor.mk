@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/zuk/ham/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/zuk/ham/proprietary/vendor/bin/diag_mdlog:system/vendor/bin/diag_mdlog \
     vendor/zuk/ham/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
@@ -32,12 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/zuk/ham/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
     vendor/zuk/ham/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.flist:system/vendor/firmware/keymaster/keymaster.flist \
-    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
@@ -50,6 +43,12 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.flist:system/vendor/firmware/keymaster/keymaster.flist \
+    vendor/zuk/ham/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/zuk/ham/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/zuk/ham/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/zuk/ham/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
