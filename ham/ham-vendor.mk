@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/diag_mdlog:system/vendor/bin/diag_mdlog \
     vendor/zuk/ham/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
+    vendor/zuk/ham/proprietary/vendor/bin/loc_launcher:system/vendor/bin/loc_launcher \
     vendor/zuk/ham/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/zuk/ham/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/zuk/ham/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
